@@ -12,7 +12,7 @@ LeetCode 75 is a curated study plan by LeetCode that covers 75 essential problem
 
 ## Progress
 
-**Completed:** 1/75
+**Completed:** 2/75
 
 ---
 
@@ -29,6 +29,7 @@ LeetCode 75 is a curated study plan by LeetCode that covers 75 essential problem
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/) | Easy | [1768_merge_strings_alternately.py](1768_merge_strings_alternately.py) |
+| 1071 | [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/) | Easy | [1071_greatest_common_divisor_of_strings.py](1071_greatest_common_divisor_of_strings.py) |
 
 ---
 
@@ -54,7 +55,7 @@ Place this header at the top of every solution file so each file is self‑docum
 # LeetCode {id} {Short Title}
 # URL: https://leetcode.com/problems/{slug}/
 # Difficulty: Easy|Medium|Hard
-# Language: Python 3
+# Language: Python 3.10+
 ```
 
 **Concrete example:**
@@ -63,7 +64,7 @@ Place this header at the top of every solution file so each file is self‑docum
 # LeetCode 1768 Merge Strings Alternately
 # URL: https://leetcode.com/problems/merge-strings-alternately/
 # Difficulty: Easy
-# Language: Python 3
+# Language: Python 3.10+
 ```
 
 Include a small runnable example in each file using the `if __name__ == "__main__":` guard so running the file verifies behavior quickly.
