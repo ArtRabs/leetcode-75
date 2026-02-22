@@ -12,7 +12,7 @@ LeetCode 75 is a curated study plan by LeetCode that covers 75 essential problem
 
 ## Progress
 
-**Completed:** 4/75
+**Completed:** 5/75
 
 ---
 
@@ -32,6 +32,7 @@ LeetCode 75 is a curated study plan by LeetCode that covers 75 essential problem
 | 1071 | [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/) | Easy | [1071_greatest_common_divisor_of_strings.py](1071_greatest_common_divisor_of_strings.py) |
 | 1431 | [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) | Easy | [1431_kids_with_the_greatest_number_of_candies.py](1431_kids_with_the_greatest_number_of_candies.py) |
 | 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/) | Easy | [1768_merge_strings_alternately.py](1768_merge_strings_alternately.py) |
+| 345 | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | Easy | [345_reverse_vowels_of_a_string.py](345_reverse_vowels_of_a_string.py) |
 ---
 
 ## Filename Convention
