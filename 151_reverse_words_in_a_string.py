@@ -1,6 +1,6 @@
 # LeetCode 151 Reverse Words in a String
 # URL: https://leetcode.com/problems/reverse-words-in-a-string/
-# Difficulty: Easy
+# Difficulty: Medium
 # Language: Python 3.10+
 
 class Solution(object):
@@ -25,6 +25,7 @@ class Solution(object):
                 reverse_words = word  
         
         return reverse_words
+    
     
 if __name__ == "__main__":
 

@@ -12,7 +12,7 @@ LeetCode 75 is a curated study plan by LeetCode that covers 75 essential problem
 
 ## Progress
 
-**Completed:** 6/75
+**Completed:** 7/75
 
 ---
 
@@ -33,7 +33,8 @@ LeetCode 75 is a curated study plan by LeetCode that covers 75 essential problem
 | 1431 | [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) | Easy | [1431_kids_with_the_greatest_number_of_candies.py](1431_kids_with_the_greatest_number_of_candies.py) |
 | 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/) | Easy | [1768_merge_strings_alternately.py](1768_merge_strings_alternately.py) |
 | 345 | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | Easy | [345_reverse_vowels_of_a_string.py](345_reverse_vowels_of_a_string.py) |
-| 151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | Easy | [151_reverse_words_in_a_string.py](151_reverse_words_in_a_string.py) |
+| 151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | Medium | [151_reverse_words_in_a_string.py](151_reverse_words_in_a_string.py) |
+| 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | Easy | [283_move_zeroes.py](283_move_zeroes.py) |
 ---
 
 ## Filename Convention
