@@ -12,7 +12,7 @@ LeetCode 75 is a curated study plan by LeetCode that covers 75 essential problem
 
 ## Progress
 
-**Completed:** 7/75
+**Completed:** 8/75
 
 ---
 
@@ -35,6 +35,7 @@ LeetCode 75 is a curated study plan by LeetCode that covers 75 essential problem
 | 345 | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | Easy | [345_reverse_vowels_of_a_string.py](345_reverse_vowels_of_a_string.py) |
 | 151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | Medium | [151_reverse_words_in_a_string.py](151_reverse_words_in_a_string.py) |
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | Easy | [283_move_zeroes.py](283_move_zeroes.py) |
+| 392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | Easy | [392_is_subsequence.py](392_is_subsequence.py) |
 ---
 
 ## Filename Convention
