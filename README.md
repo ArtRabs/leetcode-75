@@ -12,7 +12,7 @@ LeetCode 75 is a curated study plan by LeetCode that covers 75 essential problem
 
 ## Progress
 
-**Completed:** 9/75
+**Completed:** 10/75
 
 ---
 
@@ -37,6 +37,7 @@ LeetCode 75 is a curated study plan by LeetCode that covers 75 essential problem
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | Easy | [283_move_zeroes.py](283_move_zeroes.py) |
 | 392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | Easy | [392_is_subsequence.py](392_is_subsequence.py) |
 | 238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | Medium | [238_product_of_array_except_self.py](238_product_of_array_except_self.py) |
+| 443 | [String Compression](https://leetcode.com/problems/string-compression/) | Medium | [443_string_compression.py](443_string_compression.py) |
 ---
 
 ## Filename Convention
