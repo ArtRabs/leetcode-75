@@ -12,7 +12,7 @@ LeetCode 75 is a curated study plan by LeetCode that covers 75 essential problem
 
 ## Progress
 
-**Completed:** 10/75
+**Completed:** 11/75
 
 ---
 
@@ -39,6 +39,7 @@ LeetCode 75 is a curated study plan by LeetCode that covers 75 essential problem
 | 238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | Medium | [238_product_of_array_except_self.py](238_product_of_array_except_self.py) |
 | 443 | [String Compression](https://leetcode.com/problems/string-compression/) | Medium | [443_string_compression.py](443_string_compression.py) |
 | 334 | [Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/) | Medium | [334_increasing_triplet_subsequence.py](334_increasing_triplet_subsequence.py) |
+| 1732 | [Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/) | Easy | [1732_find_the_highest_altitude.py](1732_find_the_highest_altitude.py) |
 ---
 
 ## Filename Convention
