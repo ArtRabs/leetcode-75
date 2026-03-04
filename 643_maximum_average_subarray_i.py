@@ -29,6 +29,7 @@ class Solution(object):
 
         return max_sum / float(k)
     
+    
 if __name__ == "__main__":
 
     print(Solution().findMaxAverage([1,12,-5,-6,50,3], 4))

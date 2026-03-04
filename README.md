@@ -42,6 +42,7 @@ LeetCode 75 is a curated study plan by LeetCode that covers 75 essential problem
 | 1732 | [Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/) | Easy | [1732_find_the_highest_altitude.py](1732_find_the_highest_altitude.py) |
 | 724 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | Easy | [724_find_pivot_index.py](724_find_pivot_index.py) |
 | 643 | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | Easy | [643_maximum_average_subarray_i.py](643_maximum_average_subarray_i.py) |
+
 ---
 
 ## Filename Convention
