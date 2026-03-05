@@ -12,7 +12,7 @@ LeetCode 75 is a curated study plan by LeetCode that covers 75 essential problem
 
 ## Progress
 
-**Completed:** 12/75
+**Completed:** 13/75
 
 ---
 
@@ -43,6 +43,7 @@ LeetCode 75 is a curated study plan by LeetCode that covers 75 essential problem
 | 724 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | Easy | [724_find_pivot_index.py](724_find_pivot_index.py) |
 | 643 | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | Easy | [643_maximum_average_subarray_i.py](643_maximum_average_subarray_i.py) |
 | 2215 | [Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays/) | Easy | [2215_find_the_difference_of_two_arrays.py](2215_find_the_difference_of_two_arrays.py) |
+| 1207 | [Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/) | Easy | [1207_unique_number_of_occurrences.py](1207_unique_number_of_occurrences.py) |
 ---
 
 ## Filename Convention
