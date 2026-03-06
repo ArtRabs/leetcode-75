@@ -45,6 +45,7 @@ LeetCode 75 is a curated study plan by LeetCode that covers 75 essential problem
 | 2215 | [Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays/) | Easy | [2215_find_the_difference_of_two_arrays.py](2215_find_the_difference_of_two_arrays.py) |
 | 1207 | [Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/) | Easy | [1207_unique_number_of_occurrences.py](1207_unique_number_of_occurrences.py) |
 | 1456 | [Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium | [1456_maximum_number_of_vowels_in_a_substring_of_given_length.py](1456_maximum_number_of_vowels_in_a_substring_of_given_length.py) |
+| 1493 |  [Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/) | Medium | [1493_longest_subarray_of_1s_after_deleting_one_element.py](1493_longest_subarray_of_1s_after_deleting_one_element.py) |
 ---
 
 ## Filename Convention
