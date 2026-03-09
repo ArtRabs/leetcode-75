@@ -47,6 +47,7 @@ LeetCode 75 is a curated study plan by LeetCode that covers 75 essential problem
 | 1456 | [Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium | [1456_maximum_number_of_vowels_in_a_substring_of_given_length.py](1456_maximum_number_of_vowels_in_a_substring_of_given_length.py) |
 | 1493 |  [Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/) | Medium | [1493_longest_subarray_of_1s_after_deleting_one_element.py](1493_longest_subarray_of_1s_after_deleting_one_element.py) |
 | 1679 | [Max Number of K-Sum Pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs/) | Medium | [1679_max_number_of_k_sum_pairs.py](1679_max_number_of_k_sum_pairs.py) |
+| 1004 | [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/) | Medium | [1004_max_consecutive_ones_iii.py](1004_max_consecutive_ones_iii.py) |
 ---
 
 ## Filename Convention

@@ -26,6 +26,12 @@ class Solution(object):
                 freq[x] = freq.get(x, 0) + 1
 
         return ops
+    
+    
+if __name__ == "__main__":
+
+    print(Solution().maxOperations([1,2,3,4], 5)) # 2
+    print(Solution().maxOperations([3,1,3,4,3], 6)) # 1
 
 
 # class Solution(object):
@@ -37,7 +43,6 @@ class Solution(object):
 #         """
 
 #         pairs = 0
-#         seen_pair = []
 #         seen_pair_index = set()
 
 #         left = 0
@@ -53,26 +58,31 @@ class Solution(object):
 
 #                     right += 1
 
+#                 if right == len(nums):
+
+#                     break
+
 #                 if (nums[left] + nums[right]) == k:
 
 #                     pairs += 1
-#                     seen_pair.append(left, right)
-#                     seen_pair_index.append(right)
-#                     seen_pair_index.append(left)
+#                     seen_pair_index.add(right)
+#                     seen_pair_index.add(left)
 
 #                     right += 1
-#                     left += 1
 
-#                     while left in seen_pair_index:
-
-#                         left += 1
+#                     break
 
 #                 else:
 
 #                     right += 1
 
-#         return seen_pair
+#             left += 1
 
+#             while left in seen_pair_index:
+
+#                 left += 1
+
+#         return pairs
     
 
 
