@@ -12,7 +12,7 @@ LeetCode 75 is a curated study plan by LeetCode that covers 75 essential problem
 
 ## Progress
 
-**Completed:** 22/75
+**Completed:** 23/75
 
 ---
 
@@ -50,6 +50,7 @@ LeetCode 75 is a curated study plan by LeetCode that covers 75 essential problem
 | 1004 | [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/) | Medium | [1004_max_consecutive_ones_iii.py](1004_max_consecutive_ones_iii.py) |
 | 2390 | [Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/) | Medium | [2390_removing_stars_from_a_string.py](2390_removing_stars_from_a_string.py) |
 | 735 | [Asteroid Collision](https://leetcode.com/problems/asteroid-collision/) | Medium | [735_asteroid_collision.py](735_asteroid_collision.py) |
+| 2352 | [Equal Row and Column Pairs](https://leetcode.com/problems/equal-row-and-column-pairs/) | Medium | [2352_equal_row_and_column_pairs.py](2352_equal_row_and_column_pairs.py) |
 ---
 
 ## Filename Convention
