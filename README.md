@@ -52,6 +52,7 @@ LeetCode 75 is a curated study plan by LeetCode that covers 75 essential problem
 | 735 | [Asteroid Collision](https://leetcode.com/problems/asteroid-collision/) | Medium | [735_asteroid_collision.py](735_asteroid_collision.py) |
 | 2352 | [Equal Row and Column Pairs](https://leetcode.com/problems/equal-row-and-column-pairs/) | Medium | [2352_equal_row_and_column_pairs.py](2352_equal_row_and_column_pairs.py) |
 | 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | Medium | [11_container_with_most_water.py](11_container_with_most_water.py) |
+| 1657 | [Determine if Two Strings Are Close](https://leetcode.com/problems/determine-if-two-strings-are-close/) | Medium | [1657_determine_if_two_strings_are_close.py](1657_determine_if_two_strings_are_close.py) |
 ---
 
 ## Filename Convention
