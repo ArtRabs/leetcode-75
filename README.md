@@ -12,7 +12,7 @@ LeetCode 75 is a curated study plan by LeetCode that covers 75 essential problem
 
 ## Progress
 
-**Completed:** 27/75
+**Completed:** 28/75
 
 ---
 
@@ -55,6 +55,7 @@ LeetCode 75 is a curated study plan by LeetCode that covers 75 essential problem
 | 1657 | [Determine if Two Strings Are Close](https://leetcode.com/problems/determine-if-two-strings-are-close/) | Medium | [1657_determine_if_two_strings_are_close.py](1657_determine_if_two_strings_are_close.py) |
 | 394 | [Decode String](https://leetcode.com/problems/decode-string/) | Medium | [394_decode_string.py](394_decode_string.py) |
 | 933 | [Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/) | Easy | [933_number_of_recent_calls.py](933_number_of_recent_calls.py) |
+| 649 | [Dota2 Senate](https://leetcode.com/problems/dota2-senate/) | Medium | [649_dota2_senate.py](649_dota2_senate.py) |
 ---
 
 ## Filename Convention
