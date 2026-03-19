@@ -12,7 +12,7 @@ LeetCode 75 is a curated study plan by LeetCode that covers 75 essential problem
 
 ## Progress
 
-**Completed:** 29/75
+**Completed:** 30/75
 
 ---
 
@@ -57,6 +57,7 @@ LeetCode 75 is a curated study plan by LeetCode that covers 75 essential problem
 | 933 | [Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/) | Easy | [933_number_of_recent_calls.py](933_number_of_recent_calls.py) |
 | 649 | [Dota2 Senate](https://leetcode.com/problems/dota2-senate/) | Medium | [649_dota2_senate.py](649_dota2_senate.py) |
 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | Easy | [206_reverse_linked_list.py](206_reverse_linked_list.py) |
+| 328 | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | Medium | [328_odd_even_linked_list.py](328_odd_even_linked_list.py) |
 ---
 
 ## Filename Convention
