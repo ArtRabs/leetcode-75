@@ -12,7 +12,7 @@ LeetCode 75 is a curated study plan by LeetCode that covers 75 essential problem
 
 ## Progress
 
-**Completed:** 30/75
+**Completed:** 31/75
 
 ---
 
@@ -58,6 +58,7 @@ LeetCode 75 is a curated study plan by LeetCode that covers 75 essential problem
 | 649 | [Dota2 Senate](https://leetcode.com/problems/dota2-senate/) | Medium | [649_dota2_senate.py](649_dota2_senate.py) |
 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | Easy | [206_reverse_linked_list.py](206_reverse_linked_list.py) |
 | 328 | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | Medium | [328_odd_even_linked_list.py](328_odd_even_linked_list.py) |
+| 2095 | [Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/) | Medium | [2095_delete_the_middle_node_of_a_linked_list.py](2095_delete_the_middle_node_of_a_linked_list.py) |
 ---
 
 ## Filename Convention
