@@ -12,7 +12,7 @@ LeetCode 75 is a curated study plan by LeetCode that covers 75 essential problem
 
 ## Progress
 
-**Completed:** 32/75
+**Completed:** 33/75
 
 ---
 
@@ -61,6 +61,7 @@ LeetCode 75 is a curated study plan by LeetCode that covers 75 essential problem
 | 2095 | [Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/) | Medium | [2095_delete_the_middle_node_of_a_linked_list.py](2095_delete_the_middle_node_of_a_linked_list.py) |
 | 2130 | [Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/) | Medium | [2130_maximum_twin_sum_of_a_linked_list.py](2130_maximum_twin_sum_of_a_linked_list.py) |
 | 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | Easy | [104_maximum_depth_of_binary_tree.py](104_maximum_depth_of_binary_tree.py) |
+| 872 | [Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/) | Easy | [872_leaf_similar_trees.py](872_leaf_similar_trees.py) |
 ---
 
 ## Filename Convention
