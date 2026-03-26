@@ -12,7 +12,7 @@ LeetCode 75 is a curated study plan by LeetCode that covers 75 essential problem
 
 ## Progress
 
-**Completed:** 34/75
+**Completed:** 35/75
 
 ---
 
@@ -64,6 +64,7 @@ LeetCode 75 is a curated study plan by LeetCode that covers 75 essential problem
 | 872 | [Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/) | Easy | [872_leaf_similar_trees.py](872_leaf_similar_trees.py) |
 | 700 | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | Easy | [700_search_in_a_binary_search_tree.py](700_search_in_a_binary_search_tree.py) |
 | 450 | [Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/) | Medium | [450_delete_node_in_a_bst.py](450_delete_node_in_a_bst.py) |
+| 1448 | [Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/) | Medium | [1448_count_good_nodes_in_binary_tree.py](1448_count_good_nodes_in_binary_tree.py) |
 ---
 
 ## Filename Convention
