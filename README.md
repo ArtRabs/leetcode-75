@@ -12,7 +12,7 @@ LeetCode 75 is a curated study plan by LeetCode that covers 75 essential problem
 
 ## Progress
 
-**Completed:** 36/75
+**Completed:** 37/75
 
 ---
 
@@ -66,6 +66,7 @@ LeetCode 75 is a curated study plan by LeetCode that covers 75 essential problem
 | 450 | [Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/) | Medium | [450_delete_node_in_a_bst.py](450_delete_node_in_a_bst.py) |
 | 1448 | [Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/) | Medium | [1448_count_good_nodes_in_binary_tree.py](1448_count_good_nodes_in_binary_tree.py) |
 | 437 | [Path Sum III](https://leetcode.com/problems/path-sum-iii/) | Medium | [437_path_sum_iii.py](437_path_sum_iii.py) |
+| 1372 | [Longest Zigzag Path in a Binary Tree](https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree/) | Medium | [1372_longest_zigzag_path_in_a_binary_tree.py](1372_longest_zigzag_path_in_a_binary_tree.py) |
 ---
 
 ## Filename Convention
